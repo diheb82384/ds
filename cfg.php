@@ -1,10 +1,10 @@
 <?php
 
 //FILL IN USER-AGENT
-$user = 'xxxx';
+$user = 'Mozilla/5.0 (Linux; Android 5.1; A1601) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36';
 
 //FILL IN COOKIE
-$cookie = 'xxxx';
+$cookie = 'hy=e9ffq3e2ne1ashpbihfommikqa;__ppIdCC=sutxgyxorp_apwxe21056.76.70557;_pbjs_userid_consent_data=3524755945110770;__gads=ID=df67cd6f1aa1f724:T=1652973283:S=ALNI_Mb7Mqq3xE8ArJbn7h6kyIzw3nl8YQ;bidswitch_last_time=1652973316998;rekmob_props_608697=%7B%22date%22%3A1652972835731%2C%22rekJs%22%3A%7B%22rekmob_ad_unit_type%22%3A2%2C%22rekmob_native_type%22%3Anull%2C%22rekmob_ad_width%22%3A468%2C%22rekmob_fixed_cpm%22%3A0%2C%22rekmob_network_ids%22%3A%22anx_placement_id%3D18125041%3Badf_placement_id%3D750437%3Bcrt_id%3D1%22%2C%22rekmob_ad_unit%22%3A%222341ddb47c084d8a8c2e6ad442dab171%22%2C%22rekmob_app_type%22%3A0%2C%22rekmob_ad_height%22%3A60%2C%22region_id%22%3A608697%7D%2C%22countryCode%22%3A%22ID%22%2C%22cookieTime%22%3A1652973318644%7D;cf_clearance=IgbGEnSr0qvOIcN2UK4KKOfJVKfk6lErX8Kj1LkZ6tk-1653238194-0-250;_gid=GA1.2.1613393917.1653238217;ip_check_time=ip_check_time;user_ASN=AS4761;user_city=Bandung;user_country_def=ID;user_country=Indonesia;user_lt=-6.9217;user_lg=107.6071;__viCookieActive=true;cto_bundle=29m_o19QUEt6WkpzWVFLYU1Ed3gwSGhSdFozNmg5YVl0V1hGUG9VUGV4JTJGaldkQnZpZnBRSmRxcmlRSGM1bVNuT1lDb1FvQUdDTHI0THhGMmxpMDY0a3J2d0taaSUyQiUyRktSeGtXa1M0T2t6V0NySSUyRlJJejBabk40dmtFd1dtanlzY2k1QzZqVjRzWFVNUnpuNVh5V1FpMnJPTVVRdyUzRCUzRA;cto_bidid=7J5KJl9oJTJGV0NhT3dSZTZjd0xPJTJGUFI0bWElMkJheGdRdW5sVERvQmFYbk5xbWR2d081bVJPWHh3V1pHN0VkdzFibEFJRDJyeGpXN2s1bnlhNktFVHpvQlZvblNMRjFYUU1peDZjZEpYOUZtNXFORkJRQW5ROXhNVGhIUU9mUjhIbE84JTJGJTJCRUE;__cf_bm=b5H6aTTtHpXyVsa857t7LK6kqHNrv2mp9CfatxeQrrs-1653253279-0-AUNByGpgZhw6+cuiuzw9tvUw2zi9nHPpFh7xBnHrEvgZnkEd6sasHrElEFXffrYr0L9nTeYavP1ANzapG06SahToYbIP5aoxs+J5ITBZPYWZENJ8HcuFcpA0I6fOqVV+mw==;_ga_6P782LQ7C9=GS1.1.1653253248.3.1.1653253315.0;_ga=GA1.2.315134835.1652972945;_gat_gtag_UA_26960785_2=1;__gpi=UID=0000059123861d9a:T=1652973283:RT=1653253320:S=ALNI_MZm6SM6pjMLGtPDlShXh76fCPgfGQ';
 
 //FILL IN URL-SOLVEMEDIA
-$url_solvemedia = 'xxxx';
+$url_solvemedia = 'https://api-secure.solvemedia.com/papi/_challenge.js?k=rrwQ-WMpY45BeSxuvBbp7jSE-mtSUzY1;f=_ACPuzzleUtil.callbacks%5B0%5D;l=en;t=img;s=standard;c=js,h5c,h5ct,svg,h5v,v/h264,v/webm,h5a,a/mp3,a/ogg,ua/chrome,ua/chrome95,os/android,os/android5.1,fwv/Bv.AHw.cvqg54,jslib/jquery,htmlplus;am=zKAifrAnO63KX-LasCc7rQ;ca=script;ts=1653253242;ct=1653253313;th=white;r=0.9496768984234369';
